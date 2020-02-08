@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
         TextView TmrTxt = findViewById(R.id.TimerTxt);
 
-        TmrTxt.setText("1234");
+        TmrTxt.setText("12345");
 
     }
 }
